@@ -4,7 +4,7 @@ Jogo da Forca no Kernel
 Este é um micro kernel simples que implementa um jogo interativo da Forca. O kernel inicializa diretamente no jogo com complexidade mínima de código.
 
 ## Video
-
+![Video Kernel](https://drive.google.com/file/d/1O6fkfyYf2OtCu8uRt2BiFsXEnBdv4z_5/view?usp=drive_link)
 
 
 ## Funcionalidades
